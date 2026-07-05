@@ -43,10 +43,6 @@ class Solution {
             j++;
         }
        }
-
-
-
-
       int [] result = new int[ans.size()];
       for(int k = 0; k<ans.size();k++){
         result[k]=ans.get(k);
