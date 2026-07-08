@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/naman020306/Leetcodequestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/naman020306/Leetcodequestions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naman020306/Leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/naman020306/Leetcodequestions/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
