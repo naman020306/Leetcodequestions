@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/naman020306/Leetcodequestions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/naman020306/Leetcodequestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/naman020306/Leetcodequestions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naman020306/Leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naman020306/Leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/naman020306/Leetcodequestions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
