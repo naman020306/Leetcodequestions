@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/naman020306/Leetcodequestions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naman020306/Leetcodequestions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/naman020306/Leetcodequestions/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/naman020306/Leetcodequestions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/naman020306/Leetcodequestions/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/naman020306/Leetcodequestions/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/naman020306/Leetcodequestions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
